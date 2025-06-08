@@ -22,7 +22,7 @@ A simple blockchain implementation showcasing the foundational design of a block
 
 ---
 
-### 2. Mining Simulation (`mining_simulation.py`)
+### 2. Mining Simulation (`mining_sim.py`)
 
 A simulation that replicates block mining using increasing difficulty levels.
 
@@ -39,7 +39,7 @@ A simulation that replicates block mining using increasing difficulty levels.
 
 ---
 
-### 3. Consensus Algorithms Demo (`consensus_mechanisms_sim.py`)
+### 3. Consensus Algorithms Demo (`consensus_sim.py`)
 
 A demonstration of three major blockchain consensus methods.
 
